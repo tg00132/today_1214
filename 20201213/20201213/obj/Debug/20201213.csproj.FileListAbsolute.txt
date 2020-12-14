@@ -1,0 +1,12 @@
+C:\Users\tg001\OneDrive\문서\GitHub\jyu1205\1213homework\20201213\20201213\bin\Debug\20201213.exe.config
+C:\Users\tg001\OneDrive\문서\GitHub\jyu1205\1213homework\20201213\20201213\bin\Debug\20201213.exe
+C:\Users\tg001\OneDrive\문서\GitHub\jyu1205\1213homework\20201213\20201213\bin\Debug\20201213.pdb
+C:\Users\tg001\OneDrive\문서\GitHub\jyu1205\1213homework\20201213\20201213\obj\Debug\_20201213.FirstCustomControl.resources
+C:\Users\tg001\OneDrive\문서\GitHub\jyu1205\1213homework\20201213\20201213\obj\Debug\_20201213.Form1.resources
+C:\Users\tg001\OneDrive\문서\GitHub\jyu1205\1213homework\20201213\20201213\obj\Debug\_20201213.Properties.Resources.resources
+C:\Users\tg001\OneDrive\문서\GitHub\jyu1205\1213homework\20201213\20201213\obj\Debug\20201213.csproj.GenerateResource.cache
+C:\Users\tg001\OneDrive\문서\GitHub\jyu1205\1213homework\20201213\20201213\obj\Debug\20201213.csproj.CoreCompileInputs.cache
+C:\Users\tg001\OneDrive\문서\GitHub\jyu1205\1213homework\20201213\20201213\obj\Debug\20201213.exe
+C:\Users\tg001\OneDrive\문서\GitHub\jyu1205\1213homework\20201213\20201213\obj\Debug\20201213.pdb
+C:\Users\tg001\OneDrive\문서\GitHub\jyu1205\1213homework\20201213\20201213\obj\Debug\20201213.csprojAssemblyReference.cache
+C:\Users\tg001\OneDrive\문서\GitHub\jyu1205\1213homework\20201213\20201213\obj\Debug\_20201213.MysecondCustmControl.resources

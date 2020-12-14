@@ -1,0 +1,11 @@
+D:\visual studio\1213homework\20201213\20201213\bin\Release\20201213.exe.config
+D:\visual studio\1213homework\20201213\20201213\bin\Release\20201213.exe
+D:\visual studio\1213homework\20201213\20201213\bin\Release\20201213.pdb
+D:\visual studio\1213homework\20201213\20201213\obj\Release\_20201213.FirstCustomControl.resources
+D:\visual studio\1213homework\20201213\20201213\obj\Release\_20201213.Form1.resources
+D:\visual studio\1213homework\20201213\20201213\obj\Release\_20201213.MysecondCustmControl.resources
+D:\visual studio\1213homework\20201213\20201213\obj\Release\_20201213.Properties.Resources.resources
+D:\visual studio\1213homework\20201213\20201213\obj\Release\20201213.csproj.GenerateResource.cache
+D:\visual studio\1213homework\20201213\20201213\obj\Release\20201213.csproj.CoreCompileInputs.cache
+D:\visual studio\1213homework\20201213\20201213\obj\Release\20201213.exe
+D:\visual studio\1213homework\20201213\20201213\obj\Release\20201213.pdb
