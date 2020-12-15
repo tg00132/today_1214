@@ -10,3 +10,14 @@ C:\Users\tg001\OneDrive\문서\GitHub\jyu1205\homework1\homework1\obj\Release\ho
 C:\Users\tg001\OneDrive\문서\GitHub\jyu1205\homework1\homework1\obj\Release\homework1.csproj.CopyComplete
 C:\Users\tg001\OneDrive\문서\GitHub\jyu1205\homework1\homework1\obj\Release\homework1.exe
 C:\Users\tg001\OneDrive\문서\GitHub\jyu1205\homework1\homework1\obj\Release\homework1.pdb
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\homework1\homework1\bin\Release\homework1.exe.config
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\homework1\homework1\bin\Release\homework1.exe
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\homework1\homework1\bin\Release\homework1.pdb
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\homework1\homework1\obj\Release\homework1.csprojAssemblyReference.cache
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\homework1\homework1\obj\Release\homework1.Form1.resources
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\homework1\homework1\obj\Release\homework1.Properties.Resources.resources
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\homework1\homework1\obj\Release\homework1.csproj.GenerateResource.cache
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\homework1\homework1\obj\Release\homework1.csproj.CoreCompileInputs.cache
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\homework1\homework1\obj\Release\homework1.csproj.CopyComplete
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\homework1\homework1\obj\Release\homework1.exe
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\homework1\homework1\obj\Release\homework1.pdb

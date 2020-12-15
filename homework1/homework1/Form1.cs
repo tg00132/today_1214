@@ -21,5 +21,10 @@ namespace homework1
         {
             Application.Exit();
         }
+
+        private void bunifuMaterialTextbox2_OnValueChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
