@@ -1,0 +1,10 @@
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\lasthomework\lasthomework\bin\Release\lasthomework.exe.config
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\lasthomework\lasthomework\bin\Release\lasthomework.exe
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\lasthomework\lasthomework\bin\Release\lasthomework.pdb
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\lasthomework\lasthomework\obj\Release\lasthomework.csprojAssemblyReference.cache
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\lasthomework\lasthomework\obj\Release\lasthomework.Form1.resources
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\lasthomework\lasthomework\obj\Release\lasthomework.Properties.Resources.resources
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\lasthomework\lasthomework\obj\Release\lasthomework.csproj.GenerateResource.cache
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\lasthomework\lasthomework\obj\Release\lasthomework.csproj.CoreCompileInputs.cache
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\lasthomework\lasthomework\obj\Release\lasthomework.exe
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\lasthomework\lasthomework\obj\Release\lasthomework.pdb
