@@ -1,0 +1,7 @@
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\Consol5\Consol5\bin\Debug\Consol5.exe.config
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\Consol5\Consol5\bin\Debug\Consol5.exe
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\Consol5\Consol5\bin\Debug\Consol5.pdb
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\Consol5\Consol5\obj\Debug\Consol5.csprojAssemblyReference.cache
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\Consol5\Consol5\obj\Debug\Consol5.csproj.CoreCompileInputs.cache
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\Consol5\Consol5\obj\Debug\Consol5.exe
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\Consol5\Consol5\obj\Debug\Consol5.pdb

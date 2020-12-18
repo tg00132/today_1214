@@ -1,0 +1,7 @@
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\Consol5\Algorithm_20201218\bin\Debug\Algorithm_20201218.exe.config
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\Consol5\Algorithm_20201218\bin\Debug\Algorithm_20201218.exe
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\Consol5\Algorithm_20201218\bin\Debug\Algorithm_20201218.pdb
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\Consol5\Algorithm_20201218\obj\Debug\Algorithm_20201218.csprojAssemblyReference.cache
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\Consol5\Algorithm_20201218\obj\Debug\Algorithm_20201218.csproj.CoreCompileInputs.cache
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\Consol5\Algorithm_20201218\obj\Debug\Algorithm_20201218.exe
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\Consol5\Algorithm_20201218\obj\Debug\Algorithm_20201218.pdb

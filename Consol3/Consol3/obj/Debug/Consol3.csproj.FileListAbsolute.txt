@@ -5,3 +5,10 @@ C:\Users\KB\Documents\Visual Studio 2019\20201217_jyu\work\Consol3\Consol3\obj\D
 C:\Users\KB\Documents\Visual Studio 2019\20201217_jyu\work\Consol3\Consol3\obj\Debug\Consol3.csproj.CoreCompileInputs.cache
 C:\Users\KB\Documents\Visual Studio 2019\20201217_jyu\work\Consol3\Consol3\obj\Debug\Consol3.exe
 C:\Users\KB\Documents\Visual Studio 2019\20201217_jyu\work\Consol3\Consol3\obj\Debug\Consol3.pdb
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\Consol3\Consol3\bin\Debug\Consol3.exe.config
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\Consol3\Consol3\bin\Debug\Consol3.exe
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\Consol3\Consol3\bin\Debug\Consol3.pdb
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\Consol3\Consol3\obj\Debug\Consol3.csprojAssemblyReference.cache
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\Consol3\Consol3\obj\Debug\Consol3.csproj.CoreCompileInputs.cache
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\Consol3\Consol3\obj\Debug\Consol3.exe
+C:\Users\KB\Documents\Visual Studio 2019\today_1214\Consol3\Consol3\obj\Debug\Consol3.pdb
