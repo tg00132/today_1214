@@ -1,0 +1,93 @@
+<mxfile host="app.diagrams.net" modified="2020-12-20T06:44:10.331Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="JjXmGYi-jQq6vRxozOMt" version="14.1.1" type="github">
+  <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="문제1번" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
+          <mxGeometry x="120" y="128" width="285.5" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="1부터 100까지의 수 중&#xa; 3의 배수의 합은" style="direction=west;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" parent="2" vertex="1">
+          <mxGeometry x="60" y="92" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="for (int i = 0; i &lt; 100; i++)&#xa;   {&#xa;                if(i%3 == 0)&#xa;                sum += i;&#xa;            }" style="" parent="2" vertex="1">
+          <mxGeometry x="50" y="192" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="2" source="7" target="8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Console WriteLine( $&quot;1부터 100까지의&#xa; 수 중 3의 배수의 합은&quot;+ $&quot;{sum}이다&quot;)&#xa;" style="verticalAlign=middle;align=left;" parent="2" vertex="1">
+          <mxGeometry x="20" y="342" width="240" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="2" source="8" target="10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="문제2번" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
+          <mxGeometry x="450" y="128" width="280" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="int inputSecond = &#xa;int.Parse(Console.ReadLine());" style="align=center;verticalAlign=middle;" parent="3" vertex="1">
+          <mxGeometry x="35" y="122" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="Console.WriteLine($&quot;{ inputSecond / 60}분&#xa; { inputSecond % 60}초&quot;);" style="" parent="3" vertex="1">
+          <mxGeometry x="30" y="285" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="3" source="15" target="16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qns2O8NxBGMxbH933Qow-41" value="int inputSecond = &#xa;int.Parse(Console.ReadLine());" style="align=center;verticalAlign=middle;" vertex="1" parent="3">
+          <mxGeometry x="35" y="422" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qns2O8NxBGMxbH933Qow-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="3" source="16" target="qns2O8NxBGMxbH933Qow-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qns2O8NxBGMxbH933Qow-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3" source="qns2O8NxBGMxbH933Qow-61" target="15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qns2O8NxBGMxbH933Qow-61" value="숫자를 입력받고&#xa;다음과 같은 출력하기&#xa;(초 구하기)" style="direction=west;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" vertex="1" parent="3">
+          <mxGeometry x="40" y="22" width="200" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="문제3번" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
+          <mxGeometry x="724.5" y="128" width="280" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="qns2O8NxBGMxbH933Qow-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="4" source="33" target="qns2O8NxBGMxbH933Qow-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="33" value="for (int j = floor; j&gt;i; j--) &#xa;                {&#xa;                    Console.Write(&#39; &#39;);&#xa;                }" style="align=left;" parent="4" vertex="1">
+          <mxGeometry x="20" y="266" width="164.5" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="qns2O8NxBGMxbH933Qow-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="4" source="31" target="qns2O8NxBGMxbH933Qow-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qns2O8NxBGMxbH933Qow-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="4" source="31" target="33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="31" value="for (int i = 0; i &lt; floor; i++)" style="shape=note;whiteSpace=wrap;size=17" parent="4" vertex="1">
+          <mxGeometry x="32.25" y="112" width="140" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="qns2O8NxBGMxbH933Qow-44" value="전체 층을 출력" style="shape=note;whiteSpace=wrap;size=17" vertex="1" parent="4">
+          <mxGeometry x="205" y="131" width="75.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qns2O8NxBGMxbH933Qow-45" value="각층을&#xa;출력&#xa;(공백)&#xa;" style="" vertex="1" parent="4">
+          <mxGeometry x="220" y="234" width="45.5" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="qns2O8NxBGMxbH933Qow-57" value="for (int k = 0; k &lt; (2*i)+1; k++)&#xa;                {&#xa;                    Console.Write(&#39;*&#39;);&#xa;                }&#xa;                Console.WriteLine();" style="align=left;" vertex="1" parent="4">
+          <mxGeometry x="25.5" y="384" width="174.5" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="qns2O8NxBGMxbH933Qow-59" value="각층을&#xa;출력&#xa;(별)&#xa;" style="" vertex="1" parent="4">
+          <mxGeometry x="220" y="382" width="45.5" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="qns2O8NxBGMxbH933Qow-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.714;entryY=0.114;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="4" source="qns2O8NxBGMxbH933Qow-63" target="31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qns2O8NxBGMxbH933Qow-63" value="피라미드 출력하는 프로그램" style="direction=west;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" vertex="1" parent="4">
+          <mxGeometry x="32.25" y="32" width="200" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="qns2O8NxBGMxbH933Qow-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qns2O8NxBGMxbH933Qow-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="940" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
