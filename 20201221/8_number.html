@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        p
+        {
+            counter-increment: rint;
+        }
+        p::before 
+        {
+            content: counter(rint) "."
+        }
+        p::after
+        {
+            content: " - " attr(data-page)"page"
+        }
+        p::first-letter
+        {
+            font-size: 3em;
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <h1>Lorem ipsum dolor sit.</h1>
+    <p data-page="52">Lorem ipsum dolor sit amet.</p>
+    <p data-page="273">Lorem ipsum dolor sit amet consectetur adipisicing.</p>
+    <p data-page="12">집에가고싶다.</p>
+</body>
+</html>
