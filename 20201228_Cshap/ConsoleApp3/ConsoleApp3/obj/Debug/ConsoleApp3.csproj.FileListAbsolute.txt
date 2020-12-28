@@ -1,0 +1,7 @@
+C:\Users\KB\Documents\jyu\today_1214\20201228_Cshap\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\KB\Documents\jyu\today_1214\20201228_Cshap\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\KB\Documents\jyu\today_1214\20201228_Cshap\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\KB\Documents\jyu\today_1214\20201228_Cshap\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\KB\Documents\jyu\today_1214\20201228_Cshap\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\KB\Documents\jyu\today_1214\20201228_Cshap\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\KB\Documents\jyu\today_1214\20201228_Cshap\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
