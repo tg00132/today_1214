@@ -3,7 +3,16 @@ package exam0104;
 public class Exam4 {
 
 	public static void main(String[] args) {
-		int num=0;
+	for(int i = 0; i<5; i++) {
+			for(int j=0; j<5-i; j++) {
+				System.out.print(" ");
+			}
+		for(int k=0; k<i*2+1; k++) {
+			System.out.print("*");
+		}
+		System.out.println();
+		}
+
 		
 		
 
