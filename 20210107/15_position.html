@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- position속성에 사용할수 있는 키워드 
+        1.static(태그가 위에서 아래로 순서대로 배치) 
+        2.relative (초기위치상태에서 상하좌우로 위치를 이동) 
+        3.absolute (절대 위치 좌표를 설정)
+        4. fixed (화면을 기준으로 절대 위치 좌표를 설정)-->
+        <style>
+            .box
+            {
+                width: 100px;
+                height: 100px;
+                
+                /* static = 기본값 */
+                /* position:static;  <<의미없음*/
+            }
+            .red
+            {
+                background-color: red;
+            }
+            .green
+            {
+                background-color: green;
+                position: relative;
+                left: 500px;
+            }
+            .blue
+            {
+                background-color: blue;
+                position: fixed;
+                left: 100px;
+                top: 100px;
+            }
+            .pink
+            {
+                background-color: pink;
+                position: absolute; /* absolute는 부모 태그가 static이 아닌 경우에는 움직임*/
+                left: 20px;
+                top: 20px;
+                width: 30px;
+                height: 30px;
+            }
+        </style>
+</head>
+<body>
+    
+    <div class="box red"></div>
+    <div class="box green">
+        <div class="box pink"></div>
+    </div>
+
+    <div class="box blue"></div>
+    <div class="box red">두번째
+        <div class="box pink"></div>
+    </div>
+    
+</body>
+</html>
