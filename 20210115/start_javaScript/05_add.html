@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <input id="one" type="text"><span>+</span>
+    <input id="two" type="text"><span>=</span>
+    <span id="result">결과가 여기에 나옴</span>
+    <div>
+    <input type="button" value="합" onclick="sum()">
+    </div>
+
+    <input type="text" id="hana"><span>*</span>
+    <input type="text" id="dool"><span>=</span>
+    <span id="res">결과가 여기에 나옴</span>
+    <div>
+        <input type="button" value="합" onclick="hap()">
+    </div>
+
+    <input type="text" id="num"><span>-</span>
+    <input type="text" id="numb"><span>=</span>
+    <span id="dap">결과가 여기에 나옴</span>
+    <div>
+    <input type="button" value="합" onclick="abc()">
+    </div>
+
+    <input type="text" id="num1"><span>/</span>
+    <input type="text" id="num2"><span>=</span>
+    <span id="ab">결과가 여기에 나옴</span>
+    <div>
+    <input type="button" value="합" onclick="abcd()">
+    </div>
+<script>
+    function sum() {
+        var one = document.getElementById('one').value;
+        var two = document.getElementById('two').value;
+        alert(Number(one)+Number(two));
+        document.getElementById('result').innerText = Number(one)+Number(two);
+
+    }
+    function hap() {
+        var hana = document.getElementById('hana').value;
+        var dool = document.getElementById('dool').value;
+        alert(Number(hana)*Number(dool));
+        document.getElementById('res').innerText = Number(hana)*Number(dool);
+
+    }
+    function abc() {
+        var num = document.getElementById('num').value;
+        var numb = document.getElementById('numb').value;
+        alert(Number(num)-Number(numb));
+        document.getElementById('dap').innerText = Number(num)-Number(numb);
+
+    }
+    function abcd() {
+        var num1 = document.getElementById('num1').value;
+        var num2 = document.getElementById('num2').value;
+        alert(Number(num1)/Number(num2));
+        document.getElementById('ab').innerText = Number(num1)/Number(num2);
+    }
+</script>
+</body>
+</html>

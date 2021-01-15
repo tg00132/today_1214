@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        var one =1;
+        var two = "2";
+        let three = 3;
+        var one = 111;
+        // alert("ㅎㅇ");
+        console.log("ㅎㅇ");
+        // let three = 333;
+        // alert("ㅎㅇ111");
+        console.log("ㅎㅇ111");
+
+        var array = [1,2,3,"ㅇ1",'이게 되나2','응3',5];
+        for(var i = 0 ; i< array.length; i++)
+        {
+            // alert(array[i]);
+            console.log(array[i]);
+        }
+        array = 100;
+        console.log(array);
+
+        var obj = 
+        {
+                    name : "정연우1",
+                    age : 24,
+                    master: "연우2",
+                    123 : "dddd",
+                    _ :"언더바는 허용됨"
+        }
+        // alert(obj['name']);
+        // alert(obj['age']);
+        // alert(obj['master']);
+        // alert(obj.name);
+        // alert(obj.age);
+        // alert(obj.master);
+        console.log(obj['name'])
+        console.log(obj['age'])
+        console.log(obj['master'])
+        console.log(obj['123'])
+        console.log(obj.name)
+        console.log(obj.age)
+        console.log(obj.master)
+
+
+
+        var wow = function()
+        {
+            console.log("대애박");
+        };
+        wow();
+        // 똑같은말
+        // function wow()
+        // {
+        //  console.log("대애박");    
+        // }
+
+        console.log(wow);
+        console.log("!!!!!!");
+        console.log(wow()); 
+        console.log("!!!!!!");
+
+        // wow();
+        // wow();
+        var devilArray =
+        [
+            1,2,"3", { master:"정연우" , name : "연우"}, [1,2,3]
+        ]
+        console.log(devilArray[0]);
+        console.log(devilArray[1]);    
+        console.log(devilArray[2]);
+        console.log(devilArray[3]);
+        console.log(devilArray[4]);
+
+        var deviljson =
+        {
+            one : [1,2,3,4,5],
+            two : {two_one: "2", two_two : "twotwo"},
+            three : 5
+        }
+        console.log(deviljson['one']);
+        console.log(deviljson.two);
+        console.log(deviljson.three);
+        
+
+        
+            
+        
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
