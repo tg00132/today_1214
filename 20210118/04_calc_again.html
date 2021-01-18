@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <input id="first" class="num" type="text">
+    <span>+</span>
+    <input id="second" class="num" type="text">
+    <span>=</span>
+    <span class="result">결과가 여기에 나옴</span>
+    <div>
+        <input type="button" value="합 구하기" onclick="sum()">
+    </div> <!-- display속성이 block인 애들은 한줄 다차지-->
+
+    <script>
+        function sum() 
+        {
+            var one = document.getElementsByClassName('num')[0].value; //0은 제일 첫번째 
+            // console.log(one);
+            one = document.getElementById('first').value;
+            // console.log(one);
+            one = document.querySelector('#first').value;
+            // console.log(one);
+
+            var two = document.getElementsByClassName('num')[1].value; // [1] = 2번째 class의 num을 가져옴
+            document.getElementsByClassName('result')[0].innerText = Number(one)+Number(two); //숫자인거를 지적하고자 Number로 설정
+        }
+    </script>
+</body>
+</html>

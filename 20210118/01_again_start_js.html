@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        console.log("Hello world");
+        alert("안녕하세요.");
+        document.write("자바스크립트 이번주 안에 끝내기");
+    </script>
+    <style>
+        .redText
+        {
+            color: red;
+        }
+    </style>
+     <script>
+    
+        var now = 100;
+        now = "ㅇㅇㅇ";
+        now = 100.5;
+        now = [1,2,3,4,5];
+        now =
+        {
+            name : "정연우",
+            age : 24,
+            mail : "tg00132"
+        }
+        let hello = "헬로";
+        // let hello = "안녕"; 중복 선언하면 에러뜸
+        // let이라는 변수가 추가됨
+        var now = "중복 선언해도 에러가 뜨지않음";
+        for (let index = 0; index < now.length; index++) {
+            const element = now[index];
+            
+        }
+    </script>
+</head>
+<body>
+    <h1 id="firstHeadtag">Lorem, ipsum dolor.</h1>
+    <h2>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo numquam fugit unde quasi quo sit sunt consequatur quaerat ratione accusantium consectetur tenetur distinctio, repellendus asperiores? Delectus adipisci animi reiciendis eius.</h2>
+   
+   <script>
+
+       // 자바스크립트(=DOM 객체를 이용했다.)
+       var fir= document.querySelector('#firstHeadtag');
+       //속성을 줘서 스타일 바꾸기
+       fir.setAttribute('class', 'redText');
+       
+
+       //직접 스타일 바꾸기
+       fir.style.background='yellow';
+</script>
+
+   
+</body>
+</html>
