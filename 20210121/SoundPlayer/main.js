@@ -54,6 +54,7 @@ $(document).ready(function(){  //jQ
 
         // );
         //위는 js 아래는  jq
+        //재생되는 음악이 끝나면, visual에서 비쥬얼과 제목 제거
         sounds.each(function(index, soundFile)
         {
             soundFile.onended = function()
@@ -89,13 +90,13 @@ $(document).ready(function(){  //jQ
                 // console.log(strArray[1]);
                 // title.innerHTML = strArray[1];
                 // 위는 js 아래는 jq
-
+                //뮤직 제목을 출력해준다.
                 const strArray = sounds[index].src.split("sound/");                              
                 title.text(strArray[1]); 
 
                }
                
-               
+               //볼만들고 애니메이션 하기
                 createBubbles(index);
             });
         });
