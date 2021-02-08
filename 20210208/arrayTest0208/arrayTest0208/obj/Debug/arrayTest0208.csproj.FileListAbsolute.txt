@@ -1,0 +1,7 @@
+D:\today_1214\20210208\arrayTest0208\arrayTest0208\bin\Debug\arrayTest0208.exe.config
+D:\today_1214\20210208\arrayTest0208\arrayTest0208\bin\Debug\arrayTest0208.exe
+D:\today_1214\20210208\arrayTest0208\arrayTest0208\bin\Debug\arrayTest0208.pdb
+D:\today_1214\20210208\arrayTest0208\arrayTest0208\obj\Debug\arrayTest0208.csprojAssemblyReference.cache
+D:\today_1214\20210208\arrayTest0208\arrayTest0208\obj\Debug\arrayTest0208.csproj.CoreCompileInputs.cache
+D:\today_1214\20210208\arrayTest0208\arrayTest0208\obj\Debug\arrayTest0208.exe
+D:\today_1214\20210208\arrayTest0208\arrayTest0208\obj\Debug\arrayTest0208.pdb

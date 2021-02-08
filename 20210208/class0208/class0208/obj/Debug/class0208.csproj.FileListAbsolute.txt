@@ -1,0 +1,7 @@
+D:\today_1214\20210208\class0208\class0208\bin\Debug\class0208.exe.config
+D:\today_1214\20210208\class0208\class0208\bin\Debug\class0208.exe
+D:\today_1214\20210208\class0208\class0208\bin\Debug\class0208.pdb
+D:\today_1214\20210208\class0208\class0208\obj\Debug\class0208.csprojAssemblyReference.cache
+D:\today_1214\20210208\class0208\class0208\obj\Debug\class0208.csproj.CoreCompileInputs.cache
+D:\today_1214\20210208\class0208\class0208\obj\Debug\class0208.exe
+D:\today_1214\20210208\class0208\class0208\obj\Debug\class0208.pdb
