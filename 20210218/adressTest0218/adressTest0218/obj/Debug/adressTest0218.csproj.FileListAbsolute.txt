@@ -1,0 +1,7 @@
+D:\today_1214\20210218\adressTest0218\adressTest0218\bin\Debug\adressTest0218.exe.config
+D:\today_1214\20210218\adressTest0218\adressTest0218\bin\Debug\adressTest0218.exe
+D:\today_1214\20210218\adressTest0218\adressTest0218\bin\Debug\adressTest0218.pdb
+D:\today_1214\20210218\adressTest0218\adressTest0218\obj\Debug\adressTest0218.csprojAssemblyReference.cache
+D:\today_1214\20210218\adressTest0218\adressTest0218\obj\Debug\adressTest0218.csproj.CoreCompileInputs.cache
+D:\today_1214\20210218\adressTest0218\adressTest0218\obj\Debug\adressTest0218.exe
+D:\today_1214\20210218\adressTest0218\adressTest0218\obj\Debug\adressTest0218.pdb
