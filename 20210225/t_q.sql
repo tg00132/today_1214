@@ -1,0 +1,1 @@
+INSERT INTO t_user  VALUES (0,'홍길동',100,'hong@naver.com','010-1234-1234','조선한양홍대감댁',NOW());
