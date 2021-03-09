@@ -195,9 +195,9 @@ namespace addrWin0302
             this.Controls.Add(this.cxFlatPictureBox1);
             this.Controls.Add(this.uiSymbolLabel1);
             this.Controls.Add(this.addrAdd);
-            this.ImeMode = System.Windows.Forms.ImeMode.NoControl;
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Load += new System.EventHandler(this.MainForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.cxFlatPictureBox1)).EndInit();
             this.ResumeLayout(false);
 

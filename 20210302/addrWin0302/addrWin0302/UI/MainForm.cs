@@ -11,6 +11,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Drawing.Text;
 
 namespace addrWin0302
 {
@@ -54,7 +55,8 @@ namespace addrWin0302
 
         private void addDel_Click(object sender, EventArgs e)
         {
-            sc.delItem();
+            //sc.delItem();
+            new DeleteForm(sc).ShowDialog();
         }
 
         private void addrDelAll_Click(object sender, EventArgs e)
@@ -70,6 +72,21 @@ namespace addrWin0302
         {
             string input = Microsoft.VisualBasic.Interaction.InputBox(title, body, prompt, -1, -1);
             return input;
+        }
+
+        private void initFont()
+        {
+            PrivateFontCollection pFont = new PrivateFontCollection();
+            pFont.AddFontFile("Typo_DecoLetterFill.ttf");
+            Font font = new Font(pFont.Families[0],24f);
+            addrAdd.Font = font;
+            addrView.Font = font;
+
+        }
+
+        private void MainForm_Load(object sender, EventArgs e)
+        {
+            initFont();
         }
     }
 }

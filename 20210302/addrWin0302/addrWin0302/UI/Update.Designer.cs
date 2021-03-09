@@ -148,6 +148,7 @@ namespace addrWin0302.UI
             this.addName.Padding = new System.Windows.Forms.Padding(5);
             this.addName.Size = new System.Drawing.Size(321, 29);
             this.addName.TabIndex = 5;
+            this.addName.TextChanged += new System.EventHandler(this.addName_TextChanged);
             // 
             // upName
             // 

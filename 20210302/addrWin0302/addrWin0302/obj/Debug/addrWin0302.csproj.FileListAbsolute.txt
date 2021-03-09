@@ -32,3 +32,6 @@ D:\today_1214\20210302\addrWin0302\addrWin0302\obj\Debug\addrWin0302.exe
 D:\today_1214\20210302\addrWin0302\addrWin0302\obj\Debug\addrWin0302.pdb
 D:\today_1214\20210302\addrWin0302\addrWin0302\obj\Debug\addrWin0302.UI.ViewForm.resources
 D:\today_1214\20210302\addrWin0302\addrWin0302\obj\Debug\addrWin0302.UI.Update.resources
+D:\today_1214\20210302\addrWin0302\addrWin0302\bin\Debug\NanumPen.ttf
+D:\today_1214\20210302\addrWin0302\addrWin0302\bin\Debug\Typo_DecoLetterFill.ttf
+D:\today_1214\20210302\addrWin0302\addrWin0302\obj\Debug\addrWin0302.UI.DeleteForm.resources
