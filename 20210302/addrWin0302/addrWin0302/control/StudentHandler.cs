@@ -102,20 +102,7 @@ namespace adressTest0218.control
                 }
             }
 
-            /*
-            int cnt = 0;
-            while (cnt < addrList.Count)
-            {
-                if (name.Equals(addrList[cnt].Name))
-                {
-                    addrList.RemoveAt(cnt);
-                }
-                else
-                {
-                    cnt++;
-                }
-            }
-            */
+           
         }
 
         public void delItemAll()

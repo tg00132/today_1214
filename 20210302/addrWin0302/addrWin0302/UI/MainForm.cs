@@ -37,12 +37,12 @@ namespace addrWin0302
 
         private void addrAdd_Click(object sender, EventArgs e)
         {
-            //sc.addItem();
+            
             new AddForm(sc).ShowDialog();
         }
         private void addrView_Click(object sender, EventArgs e)
         {
-            //sc.viewItem();
+            
             new ViewForm(sc).ShowDialog();
         }
 
@@ -55,7 +55,7 @@ namespace addrWin0302
 
         private void addDel_Click(object sender, EventArgs e)
         {
-            //sc.delItem();
+            
             new DeleteForm(sc).ShowDialog();
         }
 

@@ -21,7 +21,6 @@ D:\today_1214\20210302\addrWin0302\addrWin0302\bin\Debug\CxFlatUI.dll
 D:\today_1214\20210302\addrWin0302\addrWin0302\bin\Debug\MaterialSkin.dll
 D:\today_1214\20210302\addrWin0302\addrWin0302\bin\Debug\SunnyUI.Common.dll
 D:\today_1214\20210302\addrWin0302\addrWin0302\bin\Debug\SunnyUI.dll
-D:\today_1214\20210302\addrWin0302\addrWin0302\obj\Debug\addrWin0302.csprojAssemblyReference.cache
 D:\today_1214\20210302\addrWin0302\addrWin0302\obj\Debug\addrWin0302.UI.AddForm.resources
 D:\today_1214\20210302\addrWin0302\addrWin0302\obj\Debug\addrWin0302.MainForm.resources
 D:\today_1214\20210302\addrWin0302\addrWin0302\obj\Debug\addrWin0302.Properties.Resources.resources
@@ -35,3 +34,4 @@ D:\today_1214\20210302\addrWin0302\addrWin0302\obj\Debug\addrWin0302.UI.Update.r
 D:\today_1214\20210302\addrWin0302\addrWin0302\bin\Debug\NanumPen.ttf
 D:\today_1214\20210302\addrWin0302\addrWin0302\bin\Debug\Typo_DecoLetterFill.ttf
 D:\today_1214\20210302\addrWin0302\addrWin0302\obj\Debug\addrWin0302.UI.DeleteForm.resources
+D:\today_1214\20210302\addrWin0302\addrWin0302\obj\Debug\addrWin0302.csprojAssemblyReference.cache

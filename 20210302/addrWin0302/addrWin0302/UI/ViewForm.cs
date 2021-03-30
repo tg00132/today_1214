@@ -59,7 +59,7 @@ namespace addrWin0302.UI
             setRowColor(listView, Color.White, Color.LightGray);
             int index = listView.Items.Count - 1;
             if (index == -1) return;
-            //listView.Items[index].Selected = true;
+            
             listView.Items[index].Focused = true;
             listView.EnsureVisible(index);
         }
@@ -83,14 +83,14 @@ namespace addrWin0302.UI
 
         private void ViewForm_Load(object sender, EventArgs e)
         {
-            //initListView();
+            
             showList();
             showGridView();
         }
 
         private void cxFlatButton1_Click(object sender, EventArgs e)
         {
-
+            // Method intentionally left empty.
         }
 
         private void listView_SelectedIndexChanged(object sender, EventArgs e)
@@ -116,7 +116,7 @@ namespace addrWin0302.UI
             int cnt = sc.getList().Count;
             for (int i = 0; i < cnt; i++)
             {
-                List<Student> addrList = sc.getList();
+                
                 gridView.Rows.Add(new string[]
                     {
                         (i + 1).ToString(), sc.getList()[i].Name,
@@ -134,6 +134,11 @@ namespace addrWin0302.UI
         private void viewExit_Click(object sender, EventArgs e)
         {
             Close();
+        }
+
+        private void gridView_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            // Method intentionally left empty.
         }
     }
 }

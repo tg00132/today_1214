@@ -47,7 +47,7 @@ namespace addrWin0302.UI
             setRowColor(uplist, Color.White, Color.LightGray);
             int index = uplist.Items.Count - 1;
             if (index == -1) return;
-            //listView.Items[index].Selected = true;
+            
             uplist.Items[index].Focused = true;
             uplist.EnsureVisible(index);
         }
@@ -69,7 +69,7 @@ namespace addrWin0302.UI
 
         private void uiTextBox1_TextChanged(object sender, EventArgs e)
         {
-
+            // Method intentionally left empty.
         }
 
         private void uiSymbolButton1_Click(object sender, EventArgs e)
@@ -116,7 +116,7 @@ namespace addrWin0302.UI
 
         private void addName_TextChanged(object sender, EventArgs e)
         {
-
+            // Method intentionally left empty.
         }
     }
 }

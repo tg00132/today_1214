@@ -51,7 +51,7 @@ namespace addrWin0302.UI
                 MessageBox.Show("이메일을 입력하세요.");
             }
 
-            Random r = new Random();
+            
             sc.getList().Add(
                 new Student(sc.getId(),
                 addName.Text, 
@@ -68,7 +68,7 @@ namespace addrWin0302.UI
 
         private void uiSymbolLabel1_Click(object sender, EventArgs e)
         {
-
+            // Method intentionally left empty.
         }
     }
 }
