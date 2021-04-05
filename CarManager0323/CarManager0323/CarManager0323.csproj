@@ -62,16 +62,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Handler\DealHandler.cs" />
     <Compile Include="Model\Customer.cs" />
     <Compile Include="DB\DaoOracle.cs" />
     <Compile Include="Model\Car.cs" />
+    <Compile Include="Model\CustomerBase.cs" />
     <Compile Include="Model\Deal.cs" />
+    <Compile Include="Model\DealResult.cs" />
     <Compile Include="Model\Seller.cs" />
     <Compile Include="UI\CarInsForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="UI\CarInsForm.Designer.cs">
       <DependentUpon>CarInsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\CustDetailView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\CustDetailView.Designer.cs">
+      <DependentUpon>CustDetailView.cs</DependentUpon>
     </Compile>
     <Compile Include="UI\CustInsForm.cs">
       <SubType>Form</SubType>
@@ -85,6 +94,12 @@
     <Compile Include="UI\DealInsForm.Designer.cs">
       <DependentUpon>DealInsForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="UI\DealView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\DealView.Designer.cs">
+      <DependentUpon>DealView.cs</DependentUpon>
+    </Compile>
     <Compile Include="UI\MainForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -93,20 +108,26 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="UI\SellerInsFormcs.cs">
+    <Compile Include="UI\SellerInsForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="UI\SellerInsFormcs.Designer.cs">
-      <DependentUpon>SellerInsFormcs.cs</DependentUpon>
+    <Compile Include="UI\SellerInsForm.Designer.cs">
+      <DependentUpon>SellerInsForm.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="UI\CarInsForm.resx">
       <DependentUpon>CarInsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\CustDetailView.resx">
+      <DependentUpon>CustDetailView.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UI\CustInsForm.resx">
       <DependentUpon>CustInsForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UI\DealInsForm.resx">
       <DependentUpon>DealInsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\DealView.resx">
+      <DependentUpon>DealView.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UI\MainForm.resx">
       <DependentUpon>MainForm.cs</DependentUpon>
@@ -120,8 +141,8 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="UI\SellerInsFormcs.resx">
-      <DependentUpon>SellerInsFormcs.cs</DependentUpon>
+    <EmbeddedResource Include="UI\SellerInsForm.resx">
+      <DependentUpon>SellerInsForm.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -137,7 +158,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Handler\" />
     <Folder Include="Util\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

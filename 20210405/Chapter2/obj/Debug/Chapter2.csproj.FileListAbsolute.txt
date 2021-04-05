@@ -1,0 +1,7 @@
+D:\today_1214\20210405\Chapter2\bin\Debug\Chapter2.exe.config
+D:\today_1214\20210405\Chapter2\bin\Debug\Chapter2.exe
+D:\today_1214\20210405\Chapter2\bin\Debug\Chapter2.pdb
+D:\today_1214\20210405\Chapter2\obj\Debug\Chapter2.csproj.CoreCompileInputs.cache
+D:\today_1214\20210405\Chapter2\obj\Debug\Chapter2.exe
+D:\today_1214\20210405\Chapter2\obj\Debug\Chapter2.pdb
+D:\today_1214\20210405\Chapter2\obj\Debug\Chapter2.csprojAssemblyReference.cache

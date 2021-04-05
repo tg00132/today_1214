@@ -16,5 +16,7 @@ D:\today_1214\CarManager0323\CarManager0323\bin\Debug\Oracle.ManagedDataAccess.d
 D:\today_1214\CarManager0323\CarManager0323\obj\Debug\CarManager0323.UI.CarInsForm.resources
 D:\today_1214\CarManager0323\CarManager0323\obj\Debug\CarManager0323.UI.CustInsForm.resources
 D:\today_1214\CarManager0323\CarManager0323\obj\Debug\CarManager0323.UI.DealInsForm.resources
-D:\today_1214\CarManager0323\CarManager0323\obj\Debug\CarManager0323.UI.SellerInsFormcs.resources
 D:\today_1214\CarManager0323\CarManager0323\obj\Debug\CarManager0323.csprojAssemblyReference.cache
+D:\today_1214\CarManager0323\CarManager0323\obj\Debug\CarManager0323.UI.SellerInsForm.resources
+D:\today_1214\CarManager0323\CarManager0323\obj\Debug\CarManager0323.UI.CustDetailView.resources
+D:\today_1214\CarManager0323\CarManager0323\obj\Debug\CarManager0323.UI.DealView.resources

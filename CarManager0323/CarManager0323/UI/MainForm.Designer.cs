@@ -39,6 +39,8 @@ namespace CarManager0323
             this.insertSeller = new Sunny.UI.UISymbolButton();
             this.insertDeal = new Sunny.UI.UISymbolButton();
             this.appExit = new Sunny.UI.UISymbolButton();
+            this.selectDeal = new Sunny.UI.UISymbolButton();
+            this.appHelp = new Sunny.UI.UISymbolButton();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -46,7 +48,7 @@ namespace CarManager0323
             // 
             this.createTB.Cursor = System.Windows.Forms.Cursors.Hand;
             this.createTB.Font = new System.Drawing.Font("Microsoft YaHei", 12F);
-            this.createTB.Location = new System.Drawing.Point(479, 130);
+            this.createTB.Location = new System.Drawing.Point(613, 76);
             this.createTB.MinimumSize = new System.Drawing.Size(1, 1);
             this.createTB.Name = "createTB";
             this.createTB.Size = new System.Drawing.Size(143, 35);
@@ -57,11 +59,13 @@ namespace CarManager0323
             // dropTB
             // 
             this.dropTB.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.dropTB.FillColor = System.Drawing.Color.Red;
             this.dropTB.Font = new System.Drawing.Font("Microsoft YaHei", 12F);
-            this.dropTB.Location = new System.Drawing.Point(479, 202);
+            this.dropTB.Location = new System.Drawing.Point(613, 137);
             this.dropTB.MinimumSize = new System.Drawing.Size(1, 1);
             this.dropTB.Name = "dropTB";
             this.dropTB.Size = new System.Drawing.Size(143, 35);
+            this.dropTB.Style = Sunny.UI.UIStyle.Custom;
             this.dropTB.TabIndex = 1;
             this.dropTB.Text = "테이블 삭제";
             this.dropTB.Click += new System.EventHandler(this.dropTB_Click);
@@ -69,11 +73,13 @@ namespace CarManager0323
             // insertAll
             // 
             this.insertAll.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.insertAll.FillColor = System.Drawing.Color.Orange;
             this.insertAll.Font = new System.Drawing.Font("Microsoft YaHei", 12F);
             this.insertAll.Location = new System.Drawing.Point(12, 383);
             this.insertAll.MinimumSize = new System.Drawing.Size(1, 1);
             this.insertAll.Name = "insertAll";
             this.insertAll.Size = new System.Drawing.Size(160, 35);
+            this.insertAll.Style = Sunny.UI.UIStyle.Custom;
             this.insertAll.TabIndex = 2;
             this.insertAll.Text = "데이터 추가 All";
             this.insertAll.Click += new System.EventHandler(this.uiSymbolButton1_Click);
@@ -83,7 +89,7 @@ namespace CarManager0323
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(-2, 63);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(475, 301);
+            this.pictureBox1.Size = new System.Drawing.Size(570, 301);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 3;
             this.pictureBox1.TabStop = false;
@@ -91,11 +97,14 @@ namespace CarManager0323
             // insertCar
             // 
             this.insertCar.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.insertCar.FillColor = System.Drawing.Color.Orange;
             this.insertCar.Font = new System.Drawing.Font("Microsoft YaHei", 12F);
             this.insertCar.Location = new System.Drawing.Point(210, 383);
             this.insertCar.MinimumSize = new System.Drawing.Size(1, 1);
             this.insertCar.Name = "insertCar";
             this.insertCar.Size = new System.Drawing.Size(157, 35);
+            this.insertCar.Style = Sunny.UI.UIStyle.Custom;
+            this.insertCar.Symbol = 61881;
             this.insertCar.TabIndex = 4;
             this.insertCar.Text = "차량 정보 추가";
             this.insertCar.Click += new System.EventHandler(this.insertCar_Click);
@@ -103,11 +112,14 @@ namespace CarManager0323
             // insertCustomer
             // 
             this.insertCustomer.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.insertCustomer.FillColor = System.Drawing.Color.Orange;
             this.insertCustomer.Font = new System.Drawing.Font("Microsoft YaHei", 12F);
             this.insertCustomer.Location = new System.Drawing.Point(411, 383);
             this.insertCustomer.MinimumSize = new System.Drawing.Size(1, 1);
             this.insertCustomer.Name = "insertCustomer";
             this.insertCustomer.Size = new System.Drawing.Size(157, 35);
+            this.insertCustomer.Style = Sunny.UI.UIStyle.Custom;
+            this.insertCustomer.Symbol = 61870;
             this.insertCustomer.TabIndex = 5;
             this.insertCustomer.Text = "고객 정보 추가";
             this.insertCustomer.Click += new System.EventHandler(this.insertCustomer_Click);
@@ -115,11 +127,14 @@ namespace CarManager0323
             // insertSeller
             // 
             this.insertSeller.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.insertSeller.FillColor = System.Drawing.Color.Orange;
             this.insertSeller.Font = new System.Drawing.Font("Microsoft YaHei", 12F);
             this.insertSeller.Location = new System.Drawing.Point(12, 460);
             this.insertSeller.MinimumSize = new System.Drawing.Size(1, 1);
             this.insertSeller.Name = "insertSeller";
             this.insertSeller.Size = new System.Drawing.Size(160, 35);
+            this.insertSeller.Style = Sunny.UI.UIStyle.Custom;
+            this.insertSeller.Symbol = 62139;
             this.insertSeller.TabIndex = 6;
             this.insertSeller.Text = "판매자 정보 추가";
             this.insertSeller.Click += new System.EventHandler(this.insertSeller_Click);
@@ -127,11 +142,14 @@ namespace CarManager0323
             // insertDeal
             // 
             this.insertDeal.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.insertDeal.FillColor = System.Drawing.Color.Orange;
             this.insertDeal.Font = new System.Drawing.Font("Microsoft YaHei", 12F);
             this.insertDeal.Location = new System.Drawing.Point(210, 460);
             this.insertDeal.MinimumSize = new System.Drawing.Size(1, 1);
             this.insertDeal.Name = "insertDeal";
             this.insertDeal.Size = new System.Drawing.Size(157, 35);
+            this.insertDeal.Style = Sunny.UI.UIStyle.Custom;
+            this.insertDeal.Symbol = 61781;
             this.insertDeal.TabIndex = 7;
             this.insertDeal.Text = "거래 정보 추가";
             this.insertDeal.Click += new System.EventHandler(this.insertDeal_Click);
@@ -139,20 +157,53 @@ namespace CarManager0323
             // appExit
             // 
             this.appExit.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.appExit.FillColor = System.Drawing.Color.Black;
             this.appExit.Font = new System.Drawing.Font("Microsoft YaHei", 12F);
-            this.appExit.Location = new System.Drawing.Point(411, 460);
+            this.appExit.Location = new System.Drawing.Point(610, 460);
             this.appExit.MinimumSize = new System.Drawing.Size(1, 1);
             this.appExit.Name = "appExit";
             this.appExit.Size = new System.Drawing.Size(157, 35);
+            this.appExit.Style = Sunny.UI.UIStyle.Custom;
             this.appExit.TabIndex = 8;
             this.appExit.Text = "프로그램 종료";
             this.appExit.Click += new System.EventHandler(this.appExit_Click);
+            // 
+            // selectDeal
+            // 
+            this.selectDeal.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.selectDeal.FillColor = System.Drawing.Color.Orange;
+            this.selectDeal.Font = new System.Drawing.Font("Microsoft YaHei", 12F);
+            this.selectDeal.Location = new System.Drawing.Point(610, 383);
+            this.selectDeal.MinimumSize = new System.Drawing.Size(1, 1);
+            this.selectDeal.Name = "selectDeal";
+            this.selectDeal.Size = new System.Drawing.Size(160, 35);
+            this.selectDeal.Style = Sunny.UI.UIStyle.Custom;
+            this.selectDeal.Symbol = 61498;
+            this.selectDeal.TabIndex = 9;
+            this.selectDeal.Text = "거래 정보 보기";
+            this.selectDeal.Click += new System.EventHandler(this.selectDeal_Click);
+            // 
+            // appHelp
+            // 
+            this.appHelp.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.appHelp.FillColor = System.Drawing.Color.Orange;
+            this.appHelp.Font = new System.Drawing.Font("Microsoft YaHei", 12F);
+            this.appHelp.Location = new System.Drawing.Point(411, 460);
+            this.appHelp.MinimumSize = new System.Drawing.Size(1, 1);
+            this.appHelp.Name = "appHelp";
+            this.appHelp.Size = new System.Drawing.Size(157, 35);
+            this.appHelp.Style = Sunny.UI.UIStyle.Custom;
+            this.appHelp.Symbol = 61736;
+            this.appHelp.TabIndex = 10;
+            this.appHelp.Text = " 도움말";
             // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(628, 516);
+            this.ClientSize = new System.Drawing.Size(784, 516);
+            this.Controls.Add(this.appHelp);
+            this.Controls.Add(this.selectDeal);
             this.Controls.Add(this.appExit);
             this.Controls.Add(this.insertDeal);
             this.Controls.Add(this.insertSeller);
@@ -182,6 +233,8 @@ namespace CarManager0323
         private Sunny.UI.UISymbolButton insertSeller;
         private Sunny.UI.UISymbolButton insertDeal;
         private Sunny.UI.UISymbolButton appExit;
+        private Sunny.UI.UISymbolButton selectDeal;
+        private Sunny.UI.UISymbolButton appHelp;
     }
 }
 

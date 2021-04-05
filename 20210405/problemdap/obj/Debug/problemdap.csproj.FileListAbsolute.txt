@@ -1,0 +1,7 @@
+D:\today_1214\20210405\problemdap\bin\Debug\problemdap.exe.config
+D:\today_1214\20210405\problemdap\bin\Debug\problemdap.exe
+D:\today_1214\20210405\problemdap\bin\Debug\problemdap.pdb
+D:\today_1214\20210405\problemdap\obj\Debug\problemdap.csproj.CoreCompileInputs.cache
+D:\today_1214\20210405\problemdap\obj\Debug\problemdap.exe
+D:\today_1214\20210405\problemdap\obj\Debug\problemdap.pdb
+D:\today_1214\20210405\problemdap\obj\Debug\problemdap.csprojAssemblyReference.cache

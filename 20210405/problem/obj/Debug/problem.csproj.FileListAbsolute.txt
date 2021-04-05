@@ -1,0 +1,7 @@
+D:\today_1214\20210405\problem\bin\Debug\problem.exe.config
+D:\today_1214\20210405\problem\bin\Debug\problem.exe
+D:\today_1214\20210405\problem\bin\Debug\problem.pdb
+D:\today_1214\20210405\problem\obj\Debug\problem.csproj.CoreCompileInputs.cache
+D:\today_1214\20210405\problem\obj\Debug\problem.exe
+D:\today_1214\20210405\problem\obj\Debug\problem.pdb
+D:\today_1214\20210405\problem\obj\Debug\problem.csprojAssemblyReference.cache
