@@ -1,0 +1,7 @@
+D:\today_1214\20210407\chapter04\chapter04\bin\Debug\chapter04.exe.config
+D:\today_1214\20210407\chapter04\chapter04\bin\Debug\chapter04.exe
+D:\today_1214\20210407\chapter04\chapter04\bin\Debug\chapter04.pdb
+D:\today_1214\20210407\chapter04\chapter04\obj\Debug\chapter04.csprojAssemblyReference.cache
+D:\today_1214\20210407\chapter04\chapter04\obj\Debug\chapter04.csproj.CoreCompileInputs.cache
+D:\today_1214\20210407\chapter04\chapter04\obj\Debug\chapter04.exe
+D:\today_1214\20210407\chapter04\chapter04\obj\Debug\chapter04.pdb

@@ -1,0 +1,14 @@
+D:\today_1214\20210408\Chapter05\lottoprogram0408\bin\Debug\lottoprogram0408.exe.config
+D:\today_1214\20210408\Chapter05\lottoprogram0408\bin\Debug\lottoprogram0408.exe
+D:\today_1214\20210408\Chapter05\lottoprogram0408\bin\Debug\lottoprogram0408.pdb
+D:\today_1214\20210408\Chapter05\lottoprogram0408\bin\Debug\CxFlatUI.dll
+D:\today_1214\20210408\Chapter05\lottoprogram0408\bin\Debug\SunnyUI.Common.dll
+D:\today_1214\20210408\Chapter05\lottoprogram0408\bin\Debug\SunnyUI.dll
+D:\today_1214\20210408\Chapter05\lottoprogram0408\obj\Debug\lottoprogram0408.csprojAssemblyReference.cache
+D:\today_1214\20210408\Chapter05\lottoprogram0408\obj\Debug\lottoprogram0408.Form1.resources
+D:\today_1214\20210408\Chapter05\lottoprogram0408\obj\Debug\lottoprogram0408.Properties.Resources.resources
+D:\today_1214\20210408\Chapter05\lottoprogram0408\obj\Debug\lottoprogram0408.csproj.GenerateResource.cache
+D:\today_1214\20210408\Chapter05\lottoprogram0408\obj\Debug\lottoprogram0408.csproj.CoreCompileInputs.cache
+D:\today_1214\20210408\Chapter05\lottoprogram0408\obj\Debug\lottoprogram0408.csproj.CopyComplete
+D:\today_1214\20210408\Chapter05\lottoprogram0408\obj\Debug\lottoprogram0408.exe
+D:\today_1214\20210408\Chapter05\lottoprogram0408\obj\Debug\lottoprogram0408.pdb

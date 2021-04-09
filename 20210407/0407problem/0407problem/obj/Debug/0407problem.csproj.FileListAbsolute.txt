@@ -1,0 +1,7 @@
+D:\today_1214\20210407\0407problem\0407problem\obj\Debug\0407problem.csprojAssemblyReference.cache
+D:\today_1214\20210407\0407problem\0407problem\obj\Debug\0407problem.csproj.CoreCompileInputs.cache
+D:\today_1214\20210407\0407problem\0407problem\bin\Debug\0407problem.exe.config
+D:\today_1214\20210407\0407problem\0407problem\bin\Debug\0407problem.exe
+D:\today_1214\20210407\0407problem\0407problem\bin\Debug\0407problem.pdb
+D:\today_1214\20210407\0407problem\0407problem\obj\Debug\0407problem.exe
+D:\today_1214\20210407\0407problem\0407problem\obj\Debug\0407problem.pdb

@@ -10,17 +10,21 @@ namespace problem
     {
         static void Main(string[] args)
         {
+            //1번문제
             Console.Write("inch : ");
             int i = int.Parse(Console.ReadLine());
             double d = i * 2.54;
             Console.WriteLine(i + "inch = " + d + "cm");
 
+
+            //2번문제 
             Console.Write("kg : ");
             int k = int.Parse(Console.ReadLine());
             double pound = k * 2.20462262;
             Console.WriteLine(k + "kg = "+ pound + "pound");
 
-
+            
+            //3번문제
             double pi = 3.14;
             Console.Write("반지름: ");
             int ban = int.Parse(Console.ReadLine());
@@ -28,6 +32,8 @@ namespace problem
             Console.WriteLine("넓이 =" + pi * ban * ban);
 
 
+
+            //4번문제
             Console.Write("첫번째 숫자:");
             int sa = int.Parse(Console.ReadLine());
             Console.Write("두번째 숫자:");
