@@ -1,0 +1,10 @@
+D:\today_1214\20210412class\Chapter05_2\Chapter5Problem\bin\Debug\Chapter5Problem.exe.config
+D:\today_1214\20210412class\Chapter05_2\Chapter5Problem\bin\Debug\Chapter5Problem.exe
+D:\today_1214\20210412class\Chapter05_2\Chapter5Problem\bin\Debug\Chapter5Problem.pdb
+D:\today_1214\20210412class\Chapter05_2\Chapter5Problem\obj\Debug\Chapter5Problem.csprojAssemblyReference.cache
+D:\today_1214\20210412class\Chapter05_2\Chapter5Problem\obj\Debug\Chapter5Problem.Form1.resources
+D:\today_1214\20210412class\Chapter05_2\Chapter5Problem\obj\Debug\Chapter5Problem.Properties.Resources.resources
+D:\today_1214\20210412class\Chapter05_2\Chapter5Problem\obj\Debug\Chapter5Problem.csproj.GenerateResource.cache
+D:\today_1214\20210412class\Chapter05_2\Chapter5Problem\obj\Debug\Chapter5Problem.csproj.CoreCompileInputs.cache
+D:\today_1214\20210412class\Chapter05_2\Chapter5Problem\obj\Debug\Chapter5Problem.exe
+D:\today_1214\20210412class\Chapter05_2\Chapter5Problem\obj\Debug\Chapter5Problem.pdb

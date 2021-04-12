@@ -1,0 +1,9 @@
+D:\today_1214\20210412class\Chapter05_2\StudentListManager\bin\Debug\StudentListManager.exe.config
+D:\today_1214\20210412class\Chapter05_2\StudentListManager\bin\Debug\StudentListManager.exe
+D:\today_1214\20210412class\Chapter05_2\StudentListManager\bin\Debug\StudentListManager.pdb
+D:\today_1214\20210412class\Chapter05_2\StudentListManager\obj\Debug\StudentListManager.csprojAssemblyReference.cache
+D:\today_1214\20210412class\Chapter05_2\StudentListManager\obj\Debug\StudentListManager.Properties.Resources.resources
+D:\today_1214\20210412class\Chapter05_2\StudentListManager\obj\Debug\StudentListManager.csproj.GenerateResource.cache
+D:\today_1214\20210412class\Chapter05_2\StudentListManager\obj\Debug\StudentListManager.csproj.CoreCompileInputs.cache
+D:\today_1214\20210412class\Chapter05_2\StudentListManager\obj\Debug\StudentListManager.exe
+D:\today_1214\20210412class\Chapter05_2\StudentListManager\obj\Debug\StudentListManager.pdb

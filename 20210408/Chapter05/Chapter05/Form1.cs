@@ -28,7 +28,8 @@ namespace Chapter05
             //MessageBox.Show("hello");
 
             Random r = new Random();
-            int[] arr = new int[6];
+            
+           
             //0이상 10미만 숫자 하나 출력 Next(10)
             //1이상 46미만의 숫자 하나 출력 Next(1,46)
             //MessageBox.Show(r.Next(1,46).ToString());
@@ -40,9 +41,62 @@ namespace Chapter05
             label_num4.Text = r.Next(1,46).ToString();
             label_num5.Text = r.Next(1,46).ToString();
             label_num6.Text = r.Next(1,46).ToString();
+            //중복 제거!!!
+            int[] randomNumbers = new int[7];
+            for (int i = 0; i < randomNumbers.Length; i++)
+            {
+
+                randomNumbers[i] = r.Next(1, 46);
+                for (int j = 0; j < i; j++)
+                {
+                    if (randomNumbers[i] == randomNumbers[j])
+                    {
+                        i--;
+                        break;
+                    }
+                }
+            }
+            string temp = "";
+            for (int i = 0; i < randomNumbers.Length; i++)
+            {
+                temp = temp + (i + "번째:" + randomNumbers[i] + Environment.NewLine);
+            }
+            MessageBox.Show(temp);
+            /*
+				foreach (var item in Controls)
+				{
+					if(item as Label != null)
+					{
+						if((item as Label).Name.Contains("N"))
+						{
+							nList[int.Parse((item as Label).Name.Replace("N", ""))-1] = (item as Label);
+						}
+					}
+				}
+				for (int i = 0; i < nList.Length; i++)
+				{
+					Console.WriteLine($"nList[{i}] : {nList[i].Name}");
+				}
+			*/
 
             //숫자 순서 정렬방법1
-            Array.Sort(arr);
+            //Array.Sort(arr);
+
+
+            //숫자 순서 정렬 방법2
+            for(int i=0; i<randomNumbers.Length; i++)
+            {
+                for(int j=0; j<randomNumbers.Length-1; j++)
+                {
+                    if (randomNumbers[j] > randomNumbers[j + i])
+                    {
+                        int temp2 = randomNumbers[i];
+                        randomNumbers[j] = randomNumbers[j + 1];
+                        randomNumbers[j + 1] = temp2;
+                    }
+                }
+            }
+
 
         }
     }

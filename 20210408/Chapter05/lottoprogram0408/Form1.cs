@@ -62,7 +62,7 @@ namespace lottoprogram0408
             }
             
 
-            int[] lottonum2 = new int[lotto.Length];
+           int[] lottonum2 = new int[lotto.Length];
             int temp2;
             for (int i = 0; i < lotto.Length; i++)
             {
@@ -88,7 +88,9 @@ namespace lottoprogram0408
             for (int i = 0; i < lotto.Length; i++)
             {
                 lotto_display[i].Text = Convert.ToString(lottonum2[i]);
-            }
+            } 
+
+            
 
            
 
