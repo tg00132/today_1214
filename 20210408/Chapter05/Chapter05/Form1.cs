@@ -28,6 +28,7 @@ namespace Chapter05
             //MessageBox.Show("hello");
 
             Random r = new Random();
+            int[] arr = new int[6];
             //0이상 10미만 숫자 하나 출력 Next(10)
             //1이상 46미만의 숫자 하나 출력 Next(1,46)
             //MessageBox.Show(r.Next(1,46).ToString());
@@ -39,6 +40,10 @@ namespace Chapter05
             label_num4.Text = r.Next(1,46).ToString();
             label_num5.Text = r.Next(1,46).ToString();
             label_num6.Text = r.Next(1,46).ToString();
+
+            //숫자 순서 정렬방법1
+            Array.Sort(arr);
+
         }
     }
 }
