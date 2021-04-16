@@ -1,0 +1,10 @@
+D:\today_1214\20210413\chapter06\timeproblem1\timeproblem1\bin\Debug\timeproblem1.exe.config
+D:\today_1214\20210413\chapter06\timeproblem1\timeproblem1\bin\Debug\timeproblem1.exe
+D:\today_1214\20210413\chapter06\timeproblem1\timeproblem1\bin\Debug\timeproblem1.pdb
+D:\today_1214\20210413\chapter06\timeproblem1\timeproblem1\obj\Debug\timeproblem1.csprojAssemblyReference.cache
+D:\today_1214\20210413\chapter06\timeproblem1\timeproblem1\obj\Debug\timeproblem1.Form1.resources
+D:\today_1214\20210413\chapter06\timeproblem1\timeproblem1\obj\Debug\timeproblem1.Properties.Resources.resources
+D:\today_1214\20210413\chapter06\timeproblem1\timeproblem1\obj\Debug\timeproblem1.csproj.GenerateResource.cache
+D:\today_1214\20210413\chapter06\timeproblem1\timeproblem1\obj\Debug\timeproblem1.csproj.CoreCompileInputs.cache
+D:\today_1214\20210413\chapter06\timeproblem1\timeproblem1\obj\Debug\timeproblem1.exe
+D:\today_1214\20210413\chapter06\timeproblem1\timeproblem1\obj\Debug\timeproblem1.pdb

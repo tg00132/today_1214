@@ -1,0 +1,10 @@
+D:\today_1214\20210412class\problem2\problem2\bin\Debug\problem2.exe.config
+D:\today_1214\20210412class\problem2\problem2\bin\Debug\problem2.exe
+D:\today_1214\20210412class\problem2\problem2\bin\Debug\problem2.pdb
+D:\today_1214\20210412class\problem2\problem2\obj\Debug\problem2.csprojAssemblyReference.cache
+D:\today_1214\20210412class\problem2\problem2\obj\Debug\problem2.Form1.resources
+D:\today_1214\20210412class\problem2\problem2\obj\Debug\problem2.Properties.Resources.resources
+D:\today_1214\20210412class\problem2\problem2\obj\Debug\problem2.csproj.GenerateResource.cache
+D:\today_1214\20210412class\problem2\problem2\obj\Debug\problem2.csproj.CoreCompileInputs.cache
+D:\today_1214\20210412class\problem2\problem2\obj\Debug\problem2.exe
+D:\today_1214\20210412class\problem2\problem2\obj\Debug\problem2.pdb

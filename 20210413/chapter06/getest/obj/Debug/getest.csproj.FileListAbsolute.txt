@@ -1,0 +1,10 @@
+D:\today_1214\20210413\chapter06\getest\bin\Debug\getest.exe.config
+D:\today_1214\20210413\chapter06\getest\bin\Debug\getest.exe
+D:\today_1214\20210413\chapter06\getest\bin\Debug\getest.pdb
+D:\today_1214\20210413\chapter06\getest\obj\Debug\getest.csprojAssemblyReference.cache
+D:\today_1214\20210413\chapter06\getest\obj\Debug\getest.Form1.resources
+D:\today_1214\20210413\chapter06\getest\obj\Debug\getest.Properties.Resources.resources
+D:\today_1214\20210413\chapter06\getest\obj\Debug\getest.csproj.GenerateResource.cache
+D:\today_1214\20210413\chapter06\getest\obj\Debug\getest.csproj.CoreCompileInputs.cache
+D:\today_1214\20210413\chapter06\getest\obj\Debug\getest.exe
+D:\today_1214\20210413\chapter06\getest\obj\Debug\getest.pdb

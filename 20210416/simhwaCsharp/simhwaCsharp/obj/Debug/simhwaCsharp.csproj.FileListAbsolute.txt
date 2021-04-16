@@ -1,0 +1,11 @@
+D:\today_1214\20210416\simhwaCsharp\simhwaCsharp\bin\Debug\simhwaCsharp.exe.config
+D:\today_1214\20210416\simhwaCsharp\simhwaCsharp\bin\Debug\simhwaCsharp.exe
+D:\today_1214\20210416\simhwaCsharp\simhwaCsharp\bin\Debug\simhwaCsharp.pdb
+D:\today_1214\20210416\simhwaCsharp\simhwaCsharp\obj\Debug\simhwaCsharp.csprojAssemblyReference.cache
+D:\today_1214\20210416\simhwaCsharp\simhwaCsharp\obj\Debug\simhwaCsharp.Form1.resources
+D:\today_1214\20210416\simhwaCsharp\simhwaCsharp\obj\Debug\simhwaCsharp.Form2.resources
+D:\today_1214\20210416\simhwaCsharp\simhwaCsharp\obj\Debug\simhwaCsharp.Properties.Resources.resources
+D:\today_1214\20210416\simhwaCsharp\simhwaCsharp\obj\Debug\simhwaCsharp.csproj.GenerateResource.cache
+D:\today_1214\20210416\simhwaCsharp\simhwaCsharp\obj\Debug\simhwaCsharp.csproj.CoreCompileInputs.cache
+D:\today_1214\20210416\simhwaCsharp\simhwaCsharp\obj\Debug\simhwaCsharp.exe
+D:\today_1214\20210416\simhwaCsharp\simhwaCsharp\obj\Debug\simhwaCsharp.pdb

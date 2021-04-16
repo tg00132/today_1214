@@ -1,0 +1,10 @@
+D:\today_1214\20210413\chapter06\Descript_Function\bin\Debug\Descript_Function.exe.config
+D:\today_1214\20210413\chapter06\Descript_Function\bin\Debug\Descript_Function.exe
+D:\today_1214\20210413\chapter06\Descript_Function\bin\Debug\Descript_Function.pdb
+D:\today_1214\20210413\chapter06\Descript_Function\obj\Debug\Descript_Function.csprojAssemblyReference.cache
+D:\today_1214\20210413\chapter06\Descript_Function\obj\Debug\Descript_Function.Form1.resources
+D:\today_1214\20210413\chapter06\Descript_Function\obj\Debug\Descript_Function.Properties.Resources.resources
+D:\today_1214\20210413\chapter06\Descript_Function\obj\Debug\Descript_Function.csproj.GenerateResource.cache
+D:\today_1214\20210413\chapter06\Descript_Function\obj\Debug\Descript_Function.csproj.CoreCompileInputs.cache
+D:\today_1214\20210413\chapter06\Descript_Function\obj\Debug\Descript_Function.exe
+D:\today_1214\20210413\chapter06\Descript_Function\obj\Debug\Descript_Function.pdb

@@ -1,0 +1,10 @@
+D:\today_1214\20210413\chapter06\chapter06\bin\Debug\chapter06.exe.config
+D:\today_1214\20210413\chapter06\chapter06\bin\Debug\chapter06.exe
+D:\today_1214\20210413\chapter06\chapter06\bin\Debug\chapter06.pdb
+D:\today_1214\20210413\chapter06\chapter06\obj\Debug\chapter06.csprojAssemblyReference.cache
+D:\today_1214\20210413\chapter06\chapter06\obj\Debug\chapter06.Form1.resources
+D:\today_1214\20210413\chapter06\chapter06\obj\Debug\chapter06.Properties.Resources.resources
+D:\today_1214\20210413\chapter06\chapter06\obj\Debug\chapter06.csproj.GenerateResource.cache
+D:\today_1214\20210413\chapter06\chapter06\obj\Debug\chapter06.csproj.CoreCompileInputs.cache
+D:\today_1214\20210413\chapter06\chapter06\obj\Debug\chapter06.exe
+D:\today_1214\20210413\chapter06\chapter06\obj\Debug\chapter06.pdb

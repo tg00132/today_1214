@@ -1,0 +1,10 @@
+D:\today_1214\20210413\chapter06\answer_function0414\bin\Debug\answer_function0414.exe.config
+D:\today_1214\20210413\chapter06\answer_function0414\bin\Debug\answer_function0414.exe
+D:\today_1214\20210413\chapter06\answer_function0414\bin\Debug\answer_function0414.pdb
+D:\today_1214\20210413\chapter06\answer_function0414\obj\Debug\answer_function0414.csprojAssemblyReference.cache
+D:\today_1214\20210413\chapter06\answer_function0414\obj\Debug\answer_function0414.Form1.resources
+D:\today_1214\20210413\chapter06\answer_function0414\obj\Debug\answer_function0414.Properties.Resources.resources
+D:\today_1214\20210413\chapter06\answer_function0414\obj\Debug\answer_function0414.csproj.GenerateResource.cache
+D:\today_1214\20210413\chapter06\answer_function0414\obj\Debug\answer_function0414.csproj.CoreCompileInputs.cache
+D:\today_1214\20210413\chapter06\answer_function0414\obj\Debug\answer_function0414.exe
+D:\today_1214\20210413\chapter06\answer_function0414\obj\Debug\answer_function0414.pdb

@@ -7,3 +7,4 @@ D:\today_1214\20210412class\Chapter05_2\Problem4\bin\Debug\Problem4.exe
 D:\today_1214\20210412class\Chapter05_2\Problem4\bin\Debug\Problem4.pdb
 D:\today_1214\20210412class\Chapter05_2\Problem4\obj\Debug\Problem4.exe
 D:\today_1214\20210412class\Chapter05_2\Problem4\obj\Debug\Problem4.pdb
+D:\today_1214\20210412class\Chapter05_2\Problem4\obj\Debug\Problem4.csprojAssemblyReference.cache

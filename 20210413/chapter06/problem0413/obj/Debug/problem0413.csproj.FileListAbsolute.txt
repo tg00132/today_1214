@@ -1,0 +1,10 @@
+D:\today_1214\20210413\chapter06\problem0413\bin\Debug\problem0413.exe.config
+D:\today_1214\20210413\chapter06\problem0413\bin\Debug\problem0413.exe
+D:\today_1214\20210413\chapter06\problem0413\bin\Debug\problem0413.pdb
+D:\today_1214\20210413\chapter06\problem0413\obj\Debug\problem0413.Form1.resources
+D:\today_1214\20210413\chapter06\problem0413\obj\Debug\problem0413.Properties.Resources.resources
+D:\today_1214\20210413\chapter06\problem0413\obj\Debug\problem0413.csproj.GenerateResource.cache
+D:\today_1214\20210413\chapter06\problem0413\obj\Debug\problem0413.csproj.CoreCompileInputs.cache
+D:\today_1214\20210413\chapter06\problem0413\obj\Debug\problem0413.exe
+D:\today_1214\20210413\chapter06\problem0413\obj\Debug\problem0413.pdb
+D:\today_1214\20210413\chapter06\problem0413\obj\Debug\problem0413.csprojAssemblyReference.cache

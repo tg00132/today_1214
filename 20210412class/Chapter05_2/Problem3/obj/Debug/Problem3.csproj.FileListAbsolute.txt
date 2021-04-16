@@ -7,3 +7,4 @@ D:\today_1214\20210412class\Chapter05_2\Problem3\obj\Debug\Problem3.csproj.CoreC
 D:\today_1214\20210412class\Chapter05_2\Problem3\obj\Debug\Problem3.exe
 D:\today_1214\20210412class\Chapter05_2\Problem3\obj\Debug\Problem3.pdb
 D:\today_1214\20210412class\Chapter05_2\Problem3\obj\Debug\Problem3.Form1.resources
+D:\today_1214\20210412class\Chapter05_2\Problem3\obj\Debug\Problem3.csprojAssemblyReference.cache
