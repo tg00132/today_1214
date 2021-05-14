@@ -82,7 +82,7 @@ namespace Managing_Car_Program
                     booksOutput += "</car>\n";
                 }
             }
-            else; //xml 파일에 아무것도 없는 경우
+            else //xml 파일에 아무것도 없는 경우
             {
                 for (int i = 0; i <= 5; i++)
                 {
