@@ -1,0 +1,10 @@
+D:\today_1214\Carmanager\parking\parking\obj\Debug\parking.csprojAssemblyReference.cache
+D:\today_1214\Carmanager\parking\parking\obj\Debug\parking.ParkingManager.resources
+D:\today_1214\Carmanager\parking\parking\obj\Debug\parking.Properties.Resources.resources
+D:\today_1214\Carmanager\parking\parking\obj\Debug\parking.csproj.GenerateResource.cache
+D:\today_1214\Carmanager\parking\parking\obj\Debug\parking.csproj.CoreCompileInputs.cache
+D:\today_1214\Carmanager\parking\parking\bin\Debug\parking.exe.config
+D:\today_1214\Carmanager\parking\parking\bin\Debug\parking.exe
+D:\today_1214\Carmanager\parking\parking\bin\Debug\parking.pdb
+D:\today_1214\Carmanager\parking\parking\obj\Debug\parking.exe
+D:\today_1214\Carmanager\parking\parking\obj\Debug\parking.pdb
